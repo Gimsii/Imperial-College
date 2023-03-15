@@ -12,4 +12,4 @@ Grade achieved for project 98% (weighted 25% of the module)
 Grade achieved for coursework 1 94% (weighted 40% of the module)
 
 - MATH60049 Statistical Learning taught by Professor Guy Nason - Mathematics at Imperial College London   
-Grade achieved for project 85% (weighted 10$ of the module)
+Grade achieved for project 85% (weighted 10% of the module)
